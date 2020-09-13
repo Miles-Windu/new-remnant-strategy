@@ -1,0 +1,26 @@
+{
+  "name": "new-remnant-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miles-Windu/new-remnant-strategy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miles-Windu/new-remnant-strategy/issues"
+  },
+  "homepage": "https://github.com/Miles-Windu/new-remnant-strategy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "gh-pages": "^3.1.0",
+    "nodemailer": "^6.4.11",
+    "path": "^0.12.7"
+  }
+}
